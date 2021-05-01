@@ -8,6 +8,17 @@ body {
   color: #5a5a5a;
 }
 
+/* Sticky footer with fixed to top navbar
+-------------------------------------------------- */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
