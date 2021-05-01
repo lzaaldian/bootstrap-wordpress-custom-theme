@@ -3,8 +3,8 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 3.75rem;
+  padding-bottom: 3.75rem;
   color: #5a5a5a;
 }
 
@@ -12,12 +12,12 @@ body {
 -------------------------------------------------- */
 
 main > .container {
-  padding: 60px 15px 0;
+  padding: 3.75rem 1rem 0;
 }
 
 .footer > .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 /* CUSTOMIZE THE CAROUSEL
