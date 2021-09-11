@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-wordpress-custom-theme",
+  "version": "2.0.0",
+  "description": "[Bootstrap](https://getbootstrap.com) as foundation to make WordPress custom theme development easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzaaldian/bootstrap-wordpress-custom-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzaaldian/bootstrap-wordpress-custom-theme/issues"
+  },
+  "homepage": "https://github.com/lzaaldian/bootstrap-wordpress-custom-theme#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier-standard": "^4.0.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "prettier": "2.4.0",
+    "prettier-config-standard": "^4.0.0"
+  }
+}
